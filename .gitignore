@@ -1,0 +1,5 @@
+*.pyc
+stockstackapi/*
+!stockstackapi/*.py
+!stockstackapi/*.json
+!stockstackapi/api/
