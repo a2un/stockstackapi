@@ -9,3 +9,4 @@ six==1.11.0
 #https://www.lfd.uci.edu/~gohlke/pythonlibs/#mysql-python
 ##https://stackoverflow.com/questions/5533050/gitignore-exclude-folder-but-include-specific-subfolder
 ##https://stackoverflow.com/questions/23519797/how-to-export-import-existing-user-with-its-privileges
+##https://stackoverflow.com/questions/11990708/error-cant-connect-to-local-mysql-server-through-socket-var-run-mysqld-mysq
